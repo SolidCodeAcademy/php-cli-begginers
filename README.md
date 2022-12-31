@@ -4,7 +4,7 @@ This repository contains the code and materials for the PHP Fundamentals for Beg
 
 ## Course Description
 
-This course is designed for beginners who are new to programming and want to learn the basics of PHP using the command-line interface (CLI). It covers topics such as writing your first PHP script, declaring variables and assigning values, data types (strings, integers, floats, booleans), control structures, functions, arrays, objects, and working with files. The course also covers best practices and security considerations when working with PHP.
+This course is designed for beginners who are new to programming and want to learn the basics of PHP using the command-line interface (CLI). It covers topics such as writing your first PHP script, declaring variables and assigning values, data types (strings, integers, floats, booleans), control structures, functions, arrays, objects, and working with files. The course also covers http requests with PHP.
 
 ## Table of Contents
 
